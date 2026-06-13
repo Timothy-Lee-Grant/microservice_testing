@@ -1,0 +1,22 @@
+# Visual Studio / MSBuild build outputs
+artifacts/
+bin/
+obj/
+
+# CoreCLR dumps
+*.dmp
+*.rpstr
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# IDE - VS Code & Cursor
+.vscode/
+.history/
+
+# MacOS system files
+.DS_Store
